@@ -1,5 +1,5 @@
 # scrapydgyg
-scrapy采集测试项目
+scrapy采集测试项目，方便以后忘了参考
 
 采集http://wz.sun0769.com/html/top/report.shtml页面，
 获取列表，分析详情页，并下载图片后修改内容中的图片相对地址；
